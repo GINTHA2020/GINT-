@@ -1,0 +1,3 @@
+[odi]
+kaitsu3 ansible_connection=docker ansible_user=oracle
+
